@@ -6,7 +6,6 @@
 - 😄 Pronouns: Her
 - ⚡ Fun fact: I love rice and stew and hiking
 
-<!---
-Ebisco30/Ebisco30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 You can click the Preview link to take a look at your changes.
 --->
