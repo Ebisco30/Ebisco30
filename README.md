@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Ebiojo Yusufu
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics:SQL,Tableau,Power BI
+ # Hi there👋
+ ## This is Ebiojo Yusufu
+ ## I am a data analyst
+-  I’m currently learning data analytics:SQL,Tableau,Power BI
 - 💞️ I’m looking to collaborate on getting data analytic projects
 - 📫 How to reach me ebiojoyusufu@gmail.com
 - 😄 Pronouns: Her
