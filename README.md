@@ -1,4 +1,4 @@
- # Hi there👋
+ ## Hi there👋
  ## This is Ebiojo Yusufu
  ## I am a data analyst
 -  I’m currently learning data analytics:SQL,Tableau,Power BI
