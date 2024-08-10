@@ -4,7 +4,7 @@
 -  I’m currently learning data analytics:SQL,Tableau,Power BI
 - 💞️ I’m looking to collaborate on getting data analytic projects
 - 📫 How to reach me ebiojoyusufu@gmail.com
-- 😄 Pronouns: Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love rice and stew and hiking
 
 
